@@ -27,4 +27,9 @@ These resources are designed for students, researchers, and professionals eager 
 
 
 We also provide a notes of robot learning by Dr. Yunlong Song.
-[Notes Line](https://github.com/yun-long/FoR)
+
+[Notes Link](https://github.com/yun-long/FoR)
+
+A Chinese version of notes of robot learning by Dr. Shuo Yang.
+
+[Notes Link](https://zhuanlan.zhihu.com/p/22266788)
