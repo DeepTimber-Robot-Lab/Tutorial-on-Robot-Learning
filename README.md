@@ -24,3 +24,7 @@ These resources are designed for students, researchers, and professionals eager 
 | Grasping                                  | [Link](https://drive.google.com/file/d/1LZNkFThQZcYGeWvcAG5oqLcWVj4x_rF1/view?usp=sharing)                    |
 | Dynamics                                  | [Link](https://drive.google.com/file/d/1S8QNAXQIviIt9JfvsfJPzwdnvJH8IIbQ/view?usp=sharing)                    |
 | Control and Simulation                    | [Link](https://drive.google.com/file/d/17WYHFkB5bJqSq3P19kJ6TSQROSTcP1XA/view?usp=sharing)                    |
+
+
+We also provide a notes of robot learning by Dr. Yunlong Song.
+[Notes Line](https://github.com/yun-long/FoR)
